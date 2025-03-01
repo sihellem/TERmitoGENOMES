@@ -9,7 +9,7 @@ Repository for mitogenome assembly and annotation in termites
 _Dependencies_: [MitoFinder](https://github.com/RemiAllio/MitoFinder)
 ```
 ## Get current database file to be used by MitoFinder's "--refseq"
-wget https://raw.githubusercontent.com/sihellem/TERmitoGENOMES/reference_mitogenomes/v0/references.gb.gz && gzip -d references.gb.gz
+wget https://raw.githubusercontent.com/sihellem/TERmitoGENOMES/master/reference_mitogenomes/v0/references.gb.gz && gzip -d references.gb.gz
 
 ### Annotation of mitochondrial scaffolds
 MITO_REF=references.gb
