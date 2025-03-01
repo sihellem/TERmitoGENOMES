@@ -1,0 +1,35 @@
+Order_in_file	RefSeq	GenBank	Isolate	Taxon	Family	Subfamily
+1	NC_009498	EF206314	IS13	Reticulitermes flavipes	Heterotermitidae	NA
+2	NC_009499	EF206315	IS54	Reticulitermes santonensis	Heterotermitidae	NA
+3	NC_009500	EF206318	IS59	Reticulitermes virginicus	Heterotermitidae	NA
+4	NC_009501	EF206320	IS198	Reticulitermes hageni	Heterotermitidae	NA
+5	NC_015800	AB626145	NA	Coptotermes formosanus	Heterotermitidae	NA
+6	NC_018120	JX144929	NA	Mastotermes darwiniensis	Mastotermitidae	NA
+7	NC_018121	JX144930	NA	Porotermes adamsoni	Stolotermitidae	Porotermitinae
+8	NC_018122	JX144931	NA	Microhodotermes viator	Hodotermitidae	NA
+9	NC_018123	JX144932	NA	Zootermopsis angusticollis	Archotermopsidae	NA
+10	NC_018124	JX144933	NA	Neotermes insularis	Kalotermitidae	NA
+11	NC_018125	JX144934	NA	Coptotermes lacteus	Heterotermitidae	NA
+12	NC_018126	JX144935	NA	Schedorhinotermes breinli	Rhinotermitidae	NA
+13	NC_018127	JX144936	NA	Heterotermes sp. SLC-2012	Heterotermitidae	NA
+14	NC_018128	JX144937	NA	Macrotermes subhyalinus	Termitidae	Macrotermitinae
+15	NC_018129	JX144938	NA	Drepanotermes sp. SLC-2012	Termitidae	Amitermitinae
+16	NC_018130	JX144939	NA	Macrognathotermes errator	Termitidae	Termitinae
+17	NC_018131	JX144940	NA	Nasutitermes triodiae	Termitidae	Nasutitermitinae
+18	NC_018599	JX050221	NA	Macrotermes barneyi	Termitidae	Macrotermitinae
+19	NC_024658	KJ958410	NA	Zootermopsis nevadensis	Archotermopsidae	NA
+20	NC_025522	KM405637	NA	Macrotermes natalensis	Termitidae	Macrotermitinae
+21	NC_025567	KM216388	NA	Reticulitermes chinensis	Heterotermitidae	NA
+22	NC_026113	KP091689	NA	Cubitermes ugandensis	Termitidae	Cubitermitinae
+23	NC_026114	KP091690	NA	Microcerotermes parvus	Termitidae	Microcerotermitinae
+24	NC_026115	KP091691	NA	Nasutitermes corniger	Termitidae	Nasutitermitinae
+25	NC_026116	KP091692	NA	Neocapritermes taracua	Termitidae	Neocapritermitinae
+26	NC_026117	KP091693	NA	Termes hospes	Termitidae	Termitinae
+27	NC_026695	KP334994	NA	Reticulitermes aculabialis	Heterotermitidae	NA
+28	NC_030262	KU877221	NA	Reticulitermes labralis	Heterotermitidae	NA
+29	NC_031162	KX712090	NA	Reticulitermes flaviceps	Heterotermitidae	NA
+30	NC_037511	MG557850	NA	Incisitermes minor	Kalotermitidae	NA
+31	NC_040119	MH766486	NA	Roisinitermes ebogoensis	Kalotermitidae	NA
+32	NA	KP872847	NA	Cryptocercus kyebangensis	Cryptocercidae	NA
+33	NA	JX144941	NA	Cryptocercus relictus	Cryptocercidae	NA
+34	NA	MG518617	NA	Cryptocercus meridianus	Cryptocercidae	NA
